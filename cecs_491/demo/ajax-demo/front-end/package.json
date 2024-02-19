@@ -2,7 +2,7 @@
   "name": "front-end",
   "version": "1.0.0",
   "scripts": {
-    "start": "lite-server"
+    "start": "npm install && lite-server"
   },
   "devDependencies": {
     "lite-server": "^2.6.1"
